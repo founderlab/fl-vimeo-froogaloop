@@ -1,0 +1,6 @@
+{
+  "name": "vimeo-froogaloop",
+  "version": "0.0.1",
+  "description": "Vimeo player api, see https://github.com/vimeo/player-api/tree/master/javascript",
+  "main": "froogaloop.js"
+}
