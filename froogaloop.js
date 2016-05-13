@@ -259,5 +259,5 @@ else {
   window.attachEvent('onmessage', onMessageReceived)
 }
 
-// Expose froogaloop to the global object
-export default Froogaloop
+
+module.exports = Froogaloop
